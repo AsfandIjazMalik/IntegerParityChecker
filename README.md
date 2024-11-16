@@ -1,7 +1,7 @@
 # IntegerParityChecker
 Python Programming 
 ## Even Odd Number Identifier
-###  This Python program helps the user determine whether a number is even or odd. It also provides functionality to check multiple numbers and handles invalid inputs with appropriate error messages. The program ensures the user enters a valid number greater than 0, with a loop to allow for repeated checks or exit the program. <br>
+This Python program helps the user determine whether a number is even or odd. It also provides functionality to check multiple numbers and handles invalid inputs with appropriate error messages. The program ensures the user enters a valid number greater than 0, with a loop to allow for repeated checks or exit the program. <br>
 ### Features<br>
 •	Even/Odd Check: The program allows the user to enter a number and determines whether it is even or odd. <br>
 •	Error Handling: The program gracefully handles invalid inputs (such as letters or non-numeric values). <br>
